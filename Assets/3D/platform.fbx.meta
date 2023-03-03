@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 64ce54c53306b65499634e4b0fbeefc0
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: df6aafb48a2c55044aecab4053b40884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1ca34c6a60c2f594fbd4d3d2daae3071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: agac koyu yesil
+    second: {fileID: 2100000, guid: 74ed75082b922364d952ee2306cbfff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bahceli ev
+    second: {fileID: 2100000, guid: 579caa0dbd6cf6d4ba01cf53ea410a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bank
+    second: {fileID: 2100000, guid: 9e1eaef1bd1602649911349679c91618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beyaz
+    second: {fileID: 2100000, guid: cd619da528fb06a43900c62f733be98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beyaz bina
+    second: {fileID: 2100000, guid: e4dc06b4fba736546990ffaca4618978, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beyazz bina alt
+    second: {fileID: 2100000, guid: b0351a9da2685bd4b8f19f7a6a106866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: burger cafe
+    second: {fileID: 2100000, guid: e5c6281e74c060c4599e3f94922ddee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: burger zemin
+    second: {fileID: 2100000, guid: a436eb2abe379ee4591a3714616c67b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "cat\u0131_"
+    second: {fileID: 2100000, guid: 3f4e1c11890114148ba981654cfc3594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: citler
+    second: {fileID: 2100000, guid: b47c7234a0b5c5f449a875ff7ba61170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: citler2
+    second: {fileID: 2100000, guid: 1a617a9b704d5a848a0efcd8928b001c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cop kutusu
+    second: {fileID: 2100000, guid: 02a4ba287c8022e46a8d2c460c959636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: direk
+    second: {fileID: 2100000, guid: f7e5a3077660f4c469a30b83c45b8b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "durak cat\u0131"
+    second: {fileID: 2100000, guid: 6b83ed6ec0c572c49a5aa61c899fc49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: durak zemin
+    second: {fileID: 2100000, guid: 969a5cadc155fd34d83a8cf06b8a2f45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engel1
+    second: {fileID: 2100000, guid: e092801d9182ca64ea72bca4ea7aa8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ev2
+    second: {fileID: 2100000, guid: 68c118a586a7e0d48997026ce117d43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gri
+    second: {fileID: 2100000, guid: 769b242f0ba8ce04cb4e936d6321133b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hamburger
+    second: {fileID: 2100000, guid: 6b30b3941dc7e1542a9c77b558956ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: isik
+    second: {fileID: 2100000, guid: b1860e835e062074996a1fe1605005af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kaldirim
+    second: {fileID: 2100000, guid: ed0f22e8f97fe4b4cab59896932b6960, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kalp
+    second: {fileID: 2100000, guid: 7559b3e773cbdb84285d09ba043d6b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karton kutu
+    second: {fileID: 2100000, guid: 4ba3aad83cb492e4bb3dde0c5e2537bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kenarlik
+    second: {fileID: 2100000, guid: cfd554498a12deb4883445409feccdb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "ket\xE7ap"
+    second: {fileID: 2100000, guid: 79ca67b1db6148246b94fc2639931ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "k\u0131rm\u0131z\u0131ms\u0131"
+    second: {fileID: 2100000, guid: 1cd8e820f443f0044bbb0e4e1eba8a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mavimsi
+    second: {fileID: 2100000, guid: f80007209a0cb7f4db5839703dd4fc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merdiven
+    second: {fileID: 2100000, guid: efdd1dd95a3220943bee2496b34cff55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merdiven basamak
+    second: {fileID: 2100000, guid: 664c97ddc703ad64db89c7edfb29b64f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: para
+    second: {fileID: 2100000, guid: 8407af0682184854298d52815b7a31fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: posta kutusu
+    second: {fileID: 2100000, guid: e79eafa8fa96e3f499f1457799cc830f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sandvic
+    second: {fileID: 2100000, guid: 9703a128694b56840a3d5c51a63eb783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "sar\u0131ms\u0131"
+    second: {fileID: 2100000, guid: f58d0421c2c20114baeb96fee5fa5462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: siyah
+    second: {fileID: 2100000, guid: f0522f0bb7addc14d918627a164ada98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sosis
+    second: {fileID: 2100000, guid: 27ef4e08488198c468a1a2babea56f4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "su kanal\u0131"
+    second: {fileID: 2100000, guid: 9aac33c9f7d4f7a49851a6f3fac7933c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "yang\u0131n musluk"
+    second: {fileID: 2100000, guid: 62b68fd124d60174eb3b954ba2901adb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "ye\u015Fil"
+    second: {fileID: 2100000, guid: 1979381754a6d3c418b356f3d3520071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zemin
+    second: {fileID: 2100000, guid: 1cf2240e3a6bdf4439eb705f5a86a063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zemin ust
+    second: {fileID: 2100000, guid: a0d60505ce790a74eb38e84838a48a67, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hamburger
+    second: {fileID: 2800000, guid: c646bbe7076779441b7c1d944d58bc9a, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
