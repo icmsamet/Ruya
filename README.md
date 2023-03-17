@@ -1,7 +1,5 @@
 # Ruya
 
-April - 2021
-
 "Ruya" was made on “GAMEHIGHED Jam 2021”, my first 72 hour Gamejam I attended. Theme” You only
 live once.” At Gamejam, we talked about “the dream of a child who thinks his life is meaningless”.
 
